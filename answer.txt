@@ -1,0 +1,41 @@
+1)The I/O cycle in Node.js
+The I/O cycle in Node.js refers to the way that Node.js handles asynchronous I/O operations.
+ It uses an event-driven, non-blocking I/O model that allows it to
+ handle large numbers of concurrent connections without blocking the event loop.
+
+2)What is HTTP Module?
+The HTTP module in Node.js provides functionality for creating and handling HTTP requests and responses.
+ It allows Node.js to act as an HTTP server, and can also be used to make HTTP requests to other servers.
+
+3)What is MongoDB?
+MongoDB is a popular NoSQL database that uses a document-oriented data model.
+ It is designed to be highly scalable and flexible, making it a popular choice for modern web applications.
+
+4)How to install MongoDB?
+MongoDB can be installed on various operating systems.
+ Installation instructions can vary depending on the operating system and version of MongoDB being used.
+ However, the basic steps are typically as follows:
+>Download the appropriate installation package from the MongoDB website.
+>Run the installer and follow the prompts to complete the installation.
+>Start the MongoDB service using the appropriate command for your operating system.
+
+5)What is MongoShell?
+MongoShell is a command-line interface for working with MongoDB databases.
+ It provides a way to interact with the database using JavaScript commands,
+ and can be used to perform a wide range of tasks, including querying and modifying data.
+
+6)What is Express?
+Express is a popular web application framework for Node.js.
+ It provides a simple and flexible way to build web applications and
+ APIs using Node.js, with features such as routing, middleware, and templates.
+
+7)What is Angular.Js?
+AngularJS is a JavaScript-based front-end web application framework that was developed by Google.
+ It allows developers to create dynamic and interactive web applications using a 
+model-view-controller (MVC) architecture.
+
+8)What is Flutter?
+Flutter is an open-source mobile application development framework that was developed by Google.
+ It allows developers to build high-performance, natively compiled applications for mobile, web,
+ and desktop platforms using a single codebase. Flutter uses the Dart programming language and
+ provides a rich set of pre-built widgets and tools to help streamline the development process.
