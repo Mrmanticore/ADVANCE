@@ -1,0 +1,12 @@
+show dbs
+use demo
+db.createCollection("sycs")
+show dbs
+db.sycs.insertOne({name:"student1",id:1})
+db.sycs.insertOne({name:"student2",id:2})
+db.sycs.find().pretty()
+db.sycs.updateOne({name:"student1"},{$set:{id:3}})
+db.sycs.find().pretty()
+db.sycs.deleteOne({name:"student2"})
+db.sycs.find().pretty()
+
