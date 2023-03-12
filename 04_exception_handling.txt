@@ -1,9 +1,0 @@
-<html>
-<head>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
-</head>
-<body ng-app ng-init="name='';">
-    Name: <input ng-model="name">
-    <p>Use the ng-model directive to bind the value of the input field.</p>
-</body>
-</html>
