@@ -1,0 +1,5 @@
+show dbs
+use demo
+db.createCollection("sycs")
+show dbs
+show collections
